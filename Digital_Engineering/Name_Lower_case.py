@@ -1,0 +1,11 @@
+#아스키코드를 활용하여 이름 출력(소문자)
+
+print(chr(0b1101011),end='')
+print(chr(0b1101001),end='')
+print(chr(0b1101101),end=' ')
+print(chr(0b1101110),end='')
+print(chr(0b1100001),end='')
+print(chr(0b1101000),end='')
+print(chr(0b1111001),end='')
+print(chr(0b1110101),end='')
+print(chr(0b1101110),end='')
