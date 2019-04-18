@@ -1,4 +1,4 @@
-#break 와 continue1
+#break 와 continue 1 (반복문 벗어나는 방법)
 a = list(range(1,11))
 print(a)
 for i in a:
