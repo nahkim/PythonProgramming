@@ -1,3 +1,5 @@
+#자연수 N까지 홀수 구하는 함수
+
 def isOdd(num):
     if num % 2 ==1:return True
     else: return False
