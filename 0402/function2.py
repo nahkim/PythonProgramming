@@ -1,4 +1,4 @@
-#x의 y승 구하는 함수 a,b
+#x의 y제곱을 구하는 함수 a,b
 
 def power(x,y):
     res = x
